@@ -4,16 +4,16 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 header:
-  image: "/images/streamteam.jpg"
+  image: "Whitney.jpg"
 ---
 
 ## Current Projects
 
-**Innovations at the Nexus of Food, Energy and Water Systems**
+**Snow and Forest Interactions: Snow albedo in a temperate coniferous forest**
 
-Collaborators: Dr. Anne Nolin, Dr. Chad Higgins
+Collaborators: Dr. Anne Nolin, Dr. Stephen Drake, Dr. Keith Jennings, Dr. Monica Arienzo, Dr. Kenneth Nussear
 
-Funding: National Science Foundation
+Funding: University of Nevada Reno College of Arts & Sciences
 
 Years: (2018 - Present)
 

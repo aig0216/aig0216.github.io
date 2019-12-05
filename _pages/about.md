@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/streamteam.jpg"
+  image: "file4.jpeg"
 ---
 
-I'm a PhD student in the Graduate Program of Hydrologic Sciences at the University of Nevada Reno. My areas of interest are snow hydrology, streamflow generation, and mountain forest ecosystems.  I am specifically interested in improved methods for snow modeling that will advance the accuracy of ecological and river forecast models.
+I'm a masters student in the Department of Geography at the University of Nevada Reno. My areas of interest are snow and forest interactions, light-absorbing particles on snow, and snow and glacial melt due to a changing climate.  I am currently working on a 2 year field project studying snow albedo in the Sierra Nevada Mountain Range in California.
