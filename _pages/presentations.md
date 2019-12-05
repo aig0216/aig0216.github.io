@@ -4,7 +4,7 @@ permalink: /presentations/
 title: "Presentations"
 author_profile: true
 header:
-  image: "CNR_4.JPG"
+  image: "/images/CNR_4.JPG"
 ---
 
 # 2019
