@@ -17,9 +17,9 @@ Funding: University of Nevada Reno College of Arts & Sciences
 
 Years: (2018 - Present)
 
-The Willamette INFEWS project is a research effort, funded by a grant from the National Science Foundation and led by Oregon State University.  The project focuses on the Willamette River Basin, a 11,600 mi2 (30,000 km2) watershed with diverse land use and a history of intensive study and integrated modeling.  Within the context of this basin, this project asks: What are the tradeoffs and adaptation pathways that will help us satisfy competing ecological demands while also securing food, water and energy for a growing population?
+Snow in forested regions is essential to surrounding ecosystems and downstream users. Studying snow and forest interactions is essential to understand how snow accumulates and melts in forests. At Sagehen Creek Field Site in the Sierra Nevada, we measured snow albedo, snow impurities, and the snowpack energy balance for the Water Year of 2019.   
 
-[Willamette INFEWS](infews.org)
+[Add your website here!]()
 
 
 **NASA SnowEx**
@@ -36,14 +36,34 @@ SnowEx is a five year program initiated and funded by NASA THP to address the mo
 
 ## Old Projects
 
-**McMurdo Dry Valleys, Antartica Stream Team, MCM LTER**
+**Cordillera Blanca, Cordillera Vilcanota Peru, American Climber Science Program**
 
-Collaborators: Dr. Dian McKnight, Dr. Michael Gooseff, Zach Sudman
+Collaborators: Dr. Carl Schmitt, Dr. John All, Willmer Sanchez Rodriguez
 
 Funding: National Science Foundation, United State Antarctic Program
 
-Years: (2015-2016) & (2016-2017)
+Years: (2016) & (2018)
 
-The McMurdo Dry Valleys LTER project is an interdisciplinary study of the aquatic and terrestrial ecosystems in a cold desert region of Antarctica. In 1992 this area was selected as a study site within the National Science Foundation's Long-term Ecological Research (LTER) Program.
+The American Climber Science Program (ACSP) is a non-profit organization that conduct and facilitate research and conservation in remote and mountain environments. The ACSP has been working in the mountain ranges of Peru for 10 years studying the impacts of human use and climate change on the fragile mountain environments.
 
-[McMurdo Dry Valleys LTER](http://mcm.lternet.edu/)
+[American Climber Science Program](https://www.climberscience.org/)
+
+**Light-absorbing Particles in the Snowy Range, Wyoming, University of Wyoming**
+
+Collaborators: Dr. Carl Schmitt, Dr. David Williams, William Bowers
+
+Funding: University of Wyoming, Haub School Creative Activities Grant, McNair Scholars
+
+Years: (2016-2017) & (2017-2018)
+
+The Snowy Range in south-central Wyoming is a northern extension of the Colorado Rockies and is subjected to extreme wind and snow events in the winter months. The mountain range is surrounded by very few contributing sources of light-absorbing particles. This study measured snow for concentrations of black carbon in the Water Years of 2017 and 2018. Results showed average North American values of black carbon, dust.
+
+**Interdisciplinary Climate Change Expedition, ICCE, Wind River Range Wyoming, Central Wyoming College**
+
+Collaborators: Dr. Carl Schmitt, Jackie Klancher, Darren Wells,
+
+Funding: Wyoming EPSCoR - National Science Foundation, Wyoming Center for Environmental Hydrology and Geophysics, Wyoming NASA Space Grant Consortium, Central Wyoming College   
+
+Years: (2014) & (2015)
+
+The ICCE expedition has been traveling to the remote glaciers in the Wind River Range every summer since 2014. Their work focuses on studying the impacts of humans and climate change on fragile alpine environments. Interdisciplinary science teams use varieties of methods and field projects to study glacial recession and hydrology.  
