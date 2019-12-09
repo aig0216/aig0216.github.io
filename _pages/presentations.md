@@ -4,7 +4,7 @@ permalink: /presentations/
 title: "Presentations"
 author_profile: true
 header:
-  image: "/images/CNR_4.JPG"
+  image: "/images/Greenwald_PPT_V2.png"
 ---
 
 # 2019
