@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 header:
-  image: "/images/Whitney.jpg"
+  image: "/images/file4.jpg"
 ---
 
 ## Current Projects
@@ -19,7 +19,6 @@ Years: (2018 - Present)
 
 Snow in forested regions is essential to surrounding ecosystems and downstream users. Studying snow and forest interactions is essential to understand how snow accumulates and melts in forests. At Sagehen Creek Field Site in the Sierra Nevada, we measured snow albedo, snow impurities, and the snowpack energy balance for the Water Year of 2019.   
 
-[Add your website here!]()
 
 
 **NASA SnowEx**
@@ -56,7 +55,7 @@ Funding: University of Wyoming, Haub School Creative Activities Grant, McNair Sc
 
 Years: (2016-2017) & (2017-2018)
 
-The Snowy Range in south-central Wyoming is a northern extension of the Colorado Rockies and is subjected to extreme wind and snow events in the winter months. The mountain range is surrounded by very few contributing sources of light-absorbing particles. This study measured snow for concentrations of black carbon in the Water Years of 2017 and 2018. Results showed average North American values of black carbon, dust.
+The Snowy Range in south-central Wyoming is a northern extension of the Colorado Rockies and is subjected to extreme wind and snow events in the winter months. The mountain range is surrounded by very few contributing sources of light-absorbing particles. This study measured snow for concentrations of black carbon in the Water Years of 2017 and 2018. Results showed average North American values of black carbon and dust.
 
 **Interdisciplinary Climate Change Expedition, ICCE, Wind River Range Wyoming, Central Wyoming College**
 
@@ -66,4 +65,4 @@ Funding: Wyoming EPSCoR - National Science Foundation, Wyoming Center for Enviro
 
 Years: (2014) & (2015)
 
-The ICCE expedition has been traveling to the remote glaciers in the Wind River Range every summer since 2014. Their work focuses on studying the impacts of humans and climate change on fragile alpine environments. Interdisciplinary science teams use varieties of methods and field projects to study glacial recession and hydrology.  
+The ICCE expedition has been traveling to the remote glaciers in Wyoming's Wind River Range every summer since 2014. Their work focuses on studying the impacts of humans and climate change on fragile alpine environments. Interdisciplinary science teams use varieties of methods and field projects to study the local glaciers and hydrology.  
