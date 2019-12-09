@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 header:
-  image: "/images/Pisco_BC.jpg"
+  image: "/images/Keith_Me_2Meters.JPG"
 ---
 
 ## Current Projects

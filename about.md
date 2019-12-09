@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/Puca_Punta.jpg" width="40%">
+  image: "/images/Puca_Punta.jpg"
 
 ---
 
