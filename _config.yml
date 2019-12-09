@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Greenwald"
-  avatar           : "Density_Stat3.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/file4.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "M.S. Student"
   location         : "Reno, NV"
   email            : "alexandergreenwald@nevada.unr.edu"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/alexsnowhydro"
+      url: "https://github.com/aig0216"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
