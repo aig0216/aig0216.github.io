@@ -17,7 +17,7 @@ Funding: University of Nevada Reno College of Arts & Sciences
 
 Years: (2018 - Present)
 
-Snow in forested regions is essential to surrounding ecosystems and downstream users. Studying snow and forest interactions is essential to understand how snow accumulates and melts in forests. At Sagehen Creek Field Site in the Sierra Nevada, we measured snow albedo, snow impurities, and the snowpack energy balance for the Water Year of 2019.   
+Snow in forested regions is essential to surrounding ecosystems and downstream users. Studying snow and forest interactions is important to understand how snow accumulates and melts in forests. At Sagehen Creek Field Site in the Sierra Nevada, we measured snow albedo, snow impurities, and the snowpack energy balance for the Water Year of 2019. In the Water Year of 2020 we will repeat our field study.  
 
 
 
@@ -39,13 +39,12 @@ SnowEx is a five year program initiated and funded by NASA THP to address the mo
 
 Collaborators: Dr. Carl Schmitt, Dr. John All, Willmer Sanchez Rodriguez
 
-Funding: National Science Foundation, United State Antarctic Program
-
 Years: (2016) & (2018)
 
-The American Climber Science Program (ACSP) is a non-profit organization that conduct and facilitate research and conservation in remote and mountain environments. The ACSP has been working in the mountain ranges of Peru for 10 years studying the impacts of human use and climate change on the fragile mountain environments.
+The American Climber Science Program (ACSP) is a non-profit organization that conduct and facilitate research and conservation in remote mountain environments. The ACSP has been working in the mountain ranges of Peru for 10 years studying the impacts of human use and climate change on the fragile mountain environments.
 
 [American Climber Science Program](https://www.climberscience.org/)
+
 
 **Light-absorbing Particles in the Snowy Range, Wyoming, University of Wyoming**
 
@@ -57,9 +56,10 @@ Years: (2016-2017) & (2017-2018)
 
 The Snowy Range in south-central Wyoming is a northern extension of the Colorado Rockies and is subjected to extreme wind and snow events in the winter months. The mountain range is surrounded by very few contributing sources of light-absorbing particles. This study measured snow for concentrations of black carbon in the Water Years of 2017 and 2018. Results showed average North American values of black carbon and dust.
 
+
 **Interdisciplinary Climate Change Expedition, ICCE, Wind River Range Wyoming, Central Wyoming College**
 
-Collaborators: Dr. Carl Schmitt, Jackie Klancher, Darren Wells,
+Collaborators: Dr. Carl Schmitt, Jackie Klancher, Darren Wells
 
 Funding: Wyoming EPSCoR - National Science Foundation, Wyoming Center for Environmental Hydrology and Geophysics, Wyoming NASA Space Grant Consortium, Central Wyoming College   
 
